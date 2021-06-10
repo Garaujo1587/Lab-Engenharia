@@ -1,0 +1,5 @@
+package com.p2engenharia.model;
+
+public class Cliente {
+
+}

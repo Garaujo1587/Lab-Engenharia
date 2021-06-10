@@ -1,0 +1,13 @@
+package com.p2engenharia;
+
+public class QualP2ireifazer {
+
+	public static void main(String[] args) {
+
+		long numeroRa = 1110481912045L; 
+		long numeroProva = (numeroRa % 3) + 1;
+		System.out.println("Prova : " + numeroProva);
+
+	}
+
+}
